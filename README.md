@@ -1,0 +1,2 @@
+# OPENCoastS-Grids
+This repository contains computational unstructured grids to be used in the SCHISM model inside OPENCOastS. For file format see http://ccrm.vims.edu/schismweb/SCHISM_v5.3.1-Manual.pdf page 46 and following. The organization is as follows: Country/coastal area name/ . At the end of each tree, a README.md file with coordinate system/EPSG code and vertical reference to mean sea level is provided, along with the hgrid.gr3 file with open/closed boundary information included.
